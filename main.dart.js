@@ -52821,7 +52821,7 @@ A.pc.prototype={
 ae(){return new A.EI(B.p)}}
 A.EI.prototype={
 P(a){var s=null
-return A.LC(s,A.a1y(A.a([A.jj("My masters project was on liquid crystals and was a primarily  theory-based project. I developed a mathematical model to describe 'columnar' liquid crystals and then used it to create a simulation of the columnar phase. ",A.aU(a).p3.z),B.Em,A.a2Q(A.jj("Download Masters Project Report as .pdf",A.aU(a).p3.y),new A.Y1())],t.nA),B.cw),s,s,s,B.ie,s,s)}}
+return A.LC(s,A.a1y(A.a([A.jj("My masters project was on liquid crystals and was a primarily theory-based project. I developed a mathematical model to describe 'columnar' liquid crystals and then used it to create a simulation of the columnar phase. ",A.aU(a).p3.z),B.Em,A.a2Q(A.jj("Download Masters Project Report as .pdf",A.aU(a).p3.y),new A.Y1())],t.nA),B.cw),s,s,s,B.ie,s,s)}}
 A.Y1.prototype={
 $0(){A.a00(A.i1("https://dl.dropboxusercontent.com/scl/fi/k8wrh9kk29f1f1kev06w7/MastersReportPatrickThomas.pdf?rlkey=t42sjbm8e6stjljk3vqhtaykf&dl=0",0,null))},
 $S:0}
