@@ -60621,7 +60621,7 @@ A.qN.prototype={
 ah(){return new A.HP(B.l)}}
 A.HP.prototype={
 U(a){var s=null
-return A.Pc(s,A.aa8(A.a([new A.vc("My masters project was on liquid crystals and was a primarily theory-based project. The aim was to develop a mathematical model to describe 'columnar' liquid crystals. I went on to create a simulation based on my model which succesfully reproduced known behaiviour of columnar phases. My final project report is available below. This is the report as submitted for my degree and so it reflects the state of the project as of March 2023.",A.aH(a).p3.z,s),B.Ga,A.a88(A.kc("Download Masters Project Report as .pdf",A.aH(a).p3.y),new A.a1Q())],t.r),B.eW),s,s,s,B.yA,s,s)}}
+return A.Pc(s,A.aa8(A.a([new A.vc("My masters project was on liquid crystals and was a primarily theory-based project. The aim was to develop a mathematical model to describe 'columnar' liquid crystals. I went on to create a simulation based on my model which succesfully reproduced known behaviour of columnar phases. My final project report is available below. This is the report as submitted for my degree and so it reflects the state of the project as of March 2023.",A.aH(a).p3.z,s),B.Ga,A.a88(A.kc("Download Masters Project Report as .pdf",A.aH(a).p3.y),new A.a1Q())],t.r),B.eW),s,s,s,B.yA,s,s)}}
 A.a1Q.prototype={
 $0(){A.a5e(A.iS("https://dl.dropboxusercontent.com/scl/fi/k8wrh9kk29f1f1kev06w7/MastersReportPatrickThomas.pdf?rlkey=t42sjbm8e6stjljk3vqhtaykf&dl=0",0,null))},
 $S:0}
