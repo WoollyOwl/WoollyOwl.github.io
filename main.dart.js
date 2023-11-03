@@ -60539,7 +60539,7 @@ aI(){var s,r,q=this
 q.b7()
 s=q.a.c.length
 q.r=s
-s=q.d=A.dd(null,A.c4(0,s*20),null,null,q)
+s=q.d=A.dd(null,A.c4(0,s*10),null,null,q)
 r=q.r
 s.a4(0,new A.a4e(q))
 q.e=new A.aJ(s,new A.im(0,r),t.gD.h("aJ<as.T>"))
